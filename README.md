@@ -1,26 +1,26 @@
 # LitterDetector
-This project started me on my machine learning and computer vision journey. It was a touch introduction and highlighted both the strengths and weaknesses of using computer vision for a system as varied as this. 
+This project started me on my machine learning and computer vision journey. This served as my foundation of knowledge of computer although a challenging project, it highlighted both the strengths and weaknesses of using computer vision for a system as varied as this. 
 
 This repository contains my work on leveraging machine learning models for detecting litter in a variety of contexts.
 
 ## Inference Examples
-For a sneak peek into our project's results, please refer to the [images](https://github.com/trow-land/LitterDetector/tree/main/images) folder where you'll find examples of our models' inference outputs.
+For examples of the project's results, please refer to the [images](https://github.com/trow-land/LitterDetector/tree/main/images) folder where you'll find examples of the models' inference outputs.
 
 ## Dataset
-For the purpose of this project, we utilised the Trash Annotated in Context (TACO) dataset. You can learn more about it on its [official website](http://tacodataset.org/), [Github repository](https://github.com/pedropro/TACO), or read about it in this [research paper](https://arxiv.org/abs/2003.06975). 
+For the purpose of this project, I utilised the Trash Annotated in Context (TACO) dataset. You can learn more about it on its [official website](http://tacodataset.org/), [Github repository](https://github.com/pedropro/TACO), or read about it in this [research paper](https://arxiv.org/abs/2003.06975). 
 
-We eventually made substantial modifications to the dataset used for the university part of this project. It was augmented with additional images from the unofficial set, my own images and narrowed down to concentrate on a few key classes of litter.
+I eventually made substantial modifications to the dataset used for the university part of this project. It was augmented with additional images from the unofficial set, my own images and narrowed down to concentrate on a few key classes of litter.
 
 ## Repository Contents
 
 ### Litter Detection with YOLOv5
-We explore the use of the You Only Look Once version 5 (YOLOv5) algorithm for real-time object detection. This section includes the implementation details and results.
+This explore the use of the You Only Look Once version 5 (YOLOv5) algorithm for real-time object detection. This noteook includes the implementation details and results. -> Soon to be updated to more current version
 
 ### Litter Detection and Instance Segmentation with Detectron2 Mask R-CNN
-Here we dive into a more advanced approach to litter detection by implementing the Mask R-CNN model through the Detectron2 library. This model not only detects the litter but also performs instance segmentation to precisely locate each item within the image.
+A short introduction into a more advanced approach to litter detection by implementing the Mask R-CNN model through the Detectron2 library. This model not only detects the litter but also performs instance segmentation to precisely locate each item within the image.
 
 ### Litter Detection with Computer Vision (Undergraduate Dissertation Thesis)
-This section contains my undergraduate dissertation on litter detection using traditional computer vision techniques. It offers a deep dive into the foundations of computer vision applied to a real-world problem.
+This section contains my undergraduate dissertation on litter detection using deep learning computer vision techniques. It offers a detailed introduction into computer vision theory and how it can be applied to a real-world problem.
 
 ## Acknowledgments
 - Cardiff University
