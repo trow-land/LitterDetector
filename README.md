@@ -35,6 +35,8 @@ This section contains my undergraduate dissertation on litter detection using de
 - Supercomputing Wales
 - Dr Yulia Hicks (Supervisor)
 
+![example](https://github.com/trow-land/LitterDetector/blob/main/images/taco_detectron3.png)
+
 
 ## Get in Touch
 
