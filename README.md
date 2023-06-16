@@ -3,6 +3,14 @@ This project started me on my machine learning and computer vision journey. This
 
 This repository contains my work on leveraging machine learning models for detecting litter in a variety of contexts.
 
+## Challenges
+
+One of the primary challenges we faced during the Litter Detection project was the immense variability within each category of litter. From packaging materials to food waste, each type of litter exhibits a different size, color, texture, and shape within that class. This diversity proved as significant challenge when implementing a detection and categorisation system, espessially if the sysem was to detect a wide variety of litter categories.
+
+Additionally, data scarcity posed a significant challenge. In order to train a machine learning model effectively, a substantial amount of high-quality, varied data is required. This data should ideally cover the full range of litter types that the model will encounter in real-world scenarios. However, obtaining such a comprehensive dataset for litter was not easy, limiting our ability to fine-tune the model to ensure accurate and reliable litter detection. 
+
+These challenges underlined the complexities involved in using computer vision for litter detection, and provided valuable insights that shaped the development process.
+
 ## Inference Examples
 For examples of the project's results, please refer to the [images](https://github.com/trow-land/LitterDetector/tree/main/images) folder where you'll find examples of the models' inference outputs.
 
