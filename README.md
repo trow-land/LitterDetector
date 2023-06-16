@@ -1,4 +1,4 @@
-# LitterDetector
+# Litter Detector
 This project started me on my machine learning and computer vision journey. This served as my foundation of knowledge of computer although a challenging project, it highlighted both the strengths and weaknesses of using computer vision for a system as varied as this. 
 
 This repository contains my work on leveraging machine learning models for detecting litter in a variety of contexts.
