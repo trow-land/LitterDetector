@@ -25,7 +25,7 @@ This section contains my undergraduate dissertation on litter detection using tr
 ## Acknowledgments
 - Cardiff University
 - Supercomputing Wales
-- Dr Yulia Hicks (Supuervisor)
+- Dr Yulia Hicks (Supervisor)
 
 
 ## Get in Touch
