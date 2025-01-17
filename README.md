@@ -1,3 +1,13 @@
+# FOR [Multi-Agent Predator-Prey Simulation with Q-Learning](https://github.com/trow-land/Reinforcement_Learning/tree/main/Multi_Agent_RL) SEE HERE!
+My CV contained the incorrect link
+
+
+
+
+
+
+
+
 # Litter Detector
 This project started me on my machine learning and computer vision journey. This served as my foundation of knowledge of computer although a challenging project, it highlighted both the strengths and weaknesses of using computer vision for a system as varied as this. 
 
